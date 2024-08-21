@@ -279,11 +279,11 @@ margin-right: 0px;
 }
 
 select {
-    width: 96%;
+    width: 97%;
     
 }
 [class^="channel" i] {
-    width: 100%;
+    width: 101%;
     display: block;
     margin: 0;
 
@@ -297,7 +297,7 @@ select {
 .agreement {
     line-height: 1.2em;
     margin-bottom: 4px;
-    width: 98%;
+    width: 99%;
 }
 
 span {
