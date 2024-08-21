@@ -25,11 +25,11 @@ ul {
 
 a {
     text-decoration: none;
-    color: blue;
+    color: aqua;
 }
 
 a:hover {
-    color: aqua;
+    color: blue;
     text-decoration: underline;
 }
 
