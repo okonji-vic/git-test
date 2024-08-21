@@ -247,12 +247,16 @@ button {
 
 @media (max-width: 710px) {
 
+    body {
+        margin: 10px 0 0 0;
+    }
+
 .divcontainer2 {
 float: left;
 width: 100%;
-padding-right: 0px;
+padding: 0 0 0 10px;
 height: 100%;
-margin-bottom: 5px;
+margin: 8px 0 5px 0px ;
 
 }
 .divcontainer1{
@@ -270,29 +274,30 @@ width: 100%;
 margin-right: 0px;
 }
 .input {
-    width: 80%;
+    width: 91%;
+    
 }
 
 select {
-    width: 85%;
+    width: 96%;
     
 }
 [class^="channel" i] {
-    width: 101%;
+    width: 100%;
     display: block;
     margin: 0;
 
 
 }
 .submit {
-    width: 85%;
+    width: 96%;
     
 }
 
 .agreement {
     line-height: 1.2em;
     margin-bottom: 4px;
-    width: 95%;
+    width: 98%;
 }
 
 span {
