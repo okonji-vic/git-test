@@ -274,11 +274,11 @@ margin-right: 0px;
 }
 
 select {
-    width: 84%;
+    width: 85%;
     
 }
 [class^="channel" i] {
-    width: 100%;
+    width: 101%;
     display: block;
     margin: 0;
 
@@ -344,10 +344,10 @@ button {
 }
 .menu {
 
-    position: relative;
+    position: fixed;
     left: 0px;
     top: 0px;
-    width: 40%;
+    width: 45%;
     margin: 0px 0 0px 0px;
     padding: 15px 0 15px 0px;
     padding-top: 15px;

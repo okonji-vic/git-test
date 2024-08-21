@@ -156,23 +156,22 @@ button {
     }
     .menu {
 
-        position: relative;
+        position: fixed;
         left: 0px;
         top: 0px;
-        width: 40%;
+        width: 45%;
         margin: 0px 0 0px 0px;
         padding: 15px 0 15px 0px;
         padding-top: 15px;
         background-color: grey;
-        -webkit-font-smoothing: antialiased;
-        transition: left 3.5s;
-        z-index: 1;
+        
+        
         
        
     }
     .menu li {
         display: block;
-        padding: 60px 0 0 0px;
+        padding: 60px 0 20px 0;
         font-size: 25px;
         list-style-type: none;
         font-family: 'Courier New', Courier, monospace;
