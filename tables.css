@@ -183,5 +183,14 @@ button {
     #list  {
         display: none;
     }
+    a {
+        color: aquamarine;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: blue;
+        
+    }
 }
 

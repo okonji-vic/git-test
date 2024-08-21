@@ -25,7 +25,7 @@ ul {
 
 a {
     text-decoration: none;
-    color: black;
+    color: blue;
 }
 
 a:hover {
@@ -123,6 +123,7 @@ button {
     }
     a {
         text-decoration: none;
+        color: blue;
     }
     #list2 {
         list-style-type: square;
